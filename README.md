@@ -1,4 +1,6 @@
- Trying to find out which channel is streamed the most, race that watch this tv shows, the province where they live, their age group and including the gender
+BRIGHT TV
+
+Trying to find out which channel is streamed the most, race that watch this tv shows, the province where they live, their age group and including the gender
 
 Tools like MS excel is used for visualization, snowflake is used to write a code and get results and canva is used for creating presentation with insights
 
